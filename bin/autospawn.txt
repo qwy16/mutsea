@@ -1,0 +1,2 @@
+change region MyRegion
+create npc "Butler" "Lee" 871e061e-ff29-4a0c-927e-ae9961975b91 99 81 35
